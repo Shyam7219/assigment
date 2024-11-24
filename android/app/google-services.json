@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20718115496",
+    "project_id": "kharadi-assignmet",
+    "storage_bucket": "kharadi-assignmet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20718115496:android:dd45362abd2d03dad7809d",
+        "android_client_info": {
+          "package_name": "com.example.kharadi_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHXGYBv56oWQ5hb41aSwJSMcmUe94s8Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

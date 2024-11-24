@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA5qA8ZLtcO7DvF5VbwEGG8CXWk_EsIpEQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>20718115496</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kharadiAssignment</string>
+	<key>PROJECT_ID</key>
+	<string>kharadi-assignmet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kharadi-assignmet.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:20718115496:ios:f691cb8244f48e25d7809d</string>
+</dict>
+</plist>
